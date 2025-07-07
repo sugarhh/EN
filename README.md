@@ -18,3 +18,7 @@ ENSI is an efficient, non-interactive secure inference framework for large langu
 - [Microsoft SEAL](https://github.com/microsoft/SEAL): Used for compatibility testing and cross-library benchmarks.
 - [Phantom](https://github.com/MrSlavika/phantom-fhe-boot): A CUDA-Accelerated Fully Homomorphic Encryption Library.
 - [1bitLLM/bitnet_b1_58-large](https://huggingface.co/1bitLLM/bitnet_b1_58-large): The open-source implementation and pre-trained weights for BitNet, integrated as the backbone LLM in our framework.
+
+## Directory Structure
+- `openfhe-python/examples/ensi` - Main source code
+
