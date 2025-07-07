@@ -22,3 +22,7 @@ ENSI is an efficient, non-interactive secure inference framework for large langu
 ## Directory Structure
 - `openfhe-python/examples/ensi` - Main source code
 
+## Usage
+Please follow the instructions in OpenFHE Documentation to run the code.
+
+## Citation
