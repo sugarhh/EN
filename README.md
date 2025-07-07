@@ -11,6 +11,6 @@ ENSI is an efficient, non-interactive secure inference framework for large langu
 - **Retraining-Free HE Implementation for Non-Linear Functions:**  
   - Addresses the high computational overhead of softmax under homomorphic encryption by leveraging sigmoid attention as an efficient and effective drop-in replacement.  
 
-- ** Efficient Implementation on CPU and GPU:** 
+- **Efficient Implementation on CPU and GPU:** 
 
 ## Requirements
