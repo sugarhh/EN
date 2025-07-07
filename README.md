@@ -13,4 +13,8 @@ ENSI is an efficient, non-interactive secure inference framework for large langu
 
 - **Efficient Implementation on CPU and GPU:** 
 
-## Requirements
+## Dependencies
+- [OpenFHE](https://github.com/openfheorg/openfhe-python): Used as our main homomorphic encryption backend, providing efficient CKKS implementation and cryptographic primitives.
+- [Microsoft SEAL](https://github.com/microsoft/SEAL): Used for compatibility testing and cross-library benchmarks.
+- [Phantom](https://github.com/MrSlavika/phantom-fhe-boot): A CUDA-Accelerated Fully Homomorphic Encryption Library.
+- [1bitLLM/bitnet_b1_58-large](https://huggingface.co/1bitLLM/bitnet_b1_58-large): The open-source implementation and pre-trained weights for BitNet, integrated as the backbone LLM in our framework.
